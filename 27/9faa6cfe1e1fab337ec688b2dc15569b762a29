@@ -1,0 +1,19 @@
+docs/GitHub-Issue监听机制.md
+  s_9268ce7cc220a9::t_c5905680263794 1-237
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.0",
+  "base_commit_sha": "279faa6cfe1e1fab337ec688b2dc15569b762a29",
+  "prompts": {},
+  "sessions": {
+    "s_9268ce7cc220a9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7a5c694a-7931-4731-9192-c25c004e18bb",
+        "model": "mimo-v2.6-pro"
+      },
+      "human_author": "benliu <benliu@tinnove.com.cn>"
+    }
+  }
+}
